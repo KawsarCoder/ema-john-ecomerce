@@ -1,0 +1,26 @@
+
+.navBar{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.main-log{
+margin-left: 100px;
+}
+
+.tabWrap{
+    margin-right: 100px;
+    display: flex;
+}
+.tabWrap a{
+    padding: 0 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.tabWrap a:hover{
+    color: orange;
+}
